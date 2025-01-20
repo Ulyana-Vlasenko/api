@@ -5,3 +5,5 @@
 ● [Тестовый прогон в формате json](https://github.com/Ulyana-Vlasenko/api/blob/main/DemoShopping.postman_test_run%20FOR%20Products.json)
 
 ● [Коллекция CountryInfoServise в Postman SOAP](https://www.postman.com/vailet-vailet/workspace/soap-country-by/collection/38427401-805abe29-db14-4811-970a-338c57639ac5?action=share&creator=38427401)
+
+● [Тест-кейсы в формате pdf](https://github.com/Ulyana-Vlasenko/api/blob/main/Test-case%20for%20API.pdf)
