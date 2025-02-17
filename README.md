@@ -20,5 +20,5 @@
 
 ✏️ В этом задании необходимо было создать запросы, позитивный и негативный, для проверки сервиса, который позволяет получать информацию о целевой стране.
 
-💡 [Коллекция CountryInfoServise в Postman SOAP](https://www.postman.com/vailet-vailet/workspace/soap-country-by/collection/38427401-805abe29-db14-4811-970a-338c57639ac5?action=share&creator=38427401)
+✏️ [Коллекция CountryInfoServise в Postman SOAP](https://www.postman.com/vailet-vailet/workspace/soap-country-by/collection/38427401-805abe29-db14-4811-970a-338c57639ac5?action=share&creator=38427401)
 
